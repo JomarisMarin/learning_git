@@ -1,14 +1,14 @@
 ---
 title: "A few of my favorite things"
-author: "Alex Hurtado Desaulniers"
+author: "Jomaris Marin"
 output: html_notebook
 ---
 
 Unordered List:
 
- - Books and Reading
- - Yarn and Crocheting 
- - Bikes and MTB
- - Modding controllers and Playing Videogames
+ - Playing Video Games
+ - Drawing
+ - Watching Neflix and Youtube on my Projector while eating snacks
+ - Playing with my new puppy
 
-🍴
+🌸
